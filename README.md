@@ -1,3 +1,3 @@
 # miigaik_practice1
 
-nu da
+nu da...
